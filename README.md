@@ -4,8 +4,10 @@
 - 🌱 Estou aprendendo TypeScript and Angular
 - ⚡ Curiosidade: Dev Web e UI Design - Equilibrando duas Paixões💜
 
+<br/>
 
 ![Elisnaidlis GitHub stats](https://github-readme-stats.vercel.app/api?username=elisnaidlis&show_icons=true&theme=tokyonight)
+
 
 ## Tecnologias que eu uso:
 
