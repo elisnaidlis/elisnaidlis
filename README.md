@@ -2,9 +2,9 @@
 
 ## 
 
-- 🔭 Atualmente estou trabalhando com Desenvolvimento Web
-- 🌱 Estou aprendendo TypeScript and Angular
-- ⚡ Curiosidade: Dev Web e UI Design - Equilibrando duas Paixões 💜
+- 🔭 Atualmente sou Trainee de Desenvolvimento Web
+- 🌱 Estou aprendendo TypeScript e Angular
+- ⚡ Curiosidade: Dev Web e UX/UI Design - Equilibrando duas Paixões 💜
 
 
 <div style="disply: inline_block"><br/>
