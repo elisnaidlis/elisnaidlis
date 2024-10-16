@@ -1,9 +1,9 @@
-### Olá! Eu sou a Elisnaidlis Correa 🖐🏽
+## Olá! Eu sou a Elisnaidlis Correa 🖐🏽
 
 ## 
 
-- 🔭 Atualmente sou Trainee de Desenvolvimento Web
-- 🌱 Estou aprendendo TypeScript e Angular
+- 🔭 Trainee - Desenvolvimento Web
+- 🌱 Buscando desvendar os segredos do mundo da programação.
 - ⚡ Curiosidade: Dev Web e UX/UI Design - Equilibrando duas Paixões 💜
 
 
