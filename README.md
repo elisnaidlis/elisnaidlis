@@ -1,8 +1,7 @@
 ## Olá! Eu sou a Elisnaidlis Correa 🖐🏽
 
-  🔭 Trainee - Desenvolvimento Web  
-  🌱 Buscando desvendar os segredos do mundo da programação  
-  ⚡ Curiosidade: Dev Web e UX/UI Design - Equilibrando duas Paixões 💜  
+  🔭 Desenvolvedora de Software Junior  
+  🌱 Buscando desvendar os segredos do mundo da programação 
 
 
 <div style="disply: inline_block"><br/>
